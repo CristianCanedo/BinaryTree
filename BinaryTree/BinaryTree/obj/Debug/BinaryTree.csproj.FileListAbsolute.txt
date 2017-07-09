@@ -1,0 +1,6 @@
+c:\users\rawr\documents\visual studio 2017\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+c:\users\rawr\documents\visual studio 2017\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+c:\users\rawr\documents\visual studio 2017\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+c:\users\rawr\documents\visual studio 2017\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+c:\users\rawr\documents\visual studio 2017\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+c:\users\rawr\documents\visual studio 2017\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
